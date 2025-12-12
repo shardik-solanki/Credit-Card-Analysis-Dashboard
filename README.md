@@ -26,7 +26,7 @@ The dashboard provides the following top-level insights:
 
 | Component | Technology/Tool | Purpose |
 | :--- | :--- | :--- |
-| **Data Visualization** | ** Power BI** | Used to create the interactive dashboards. |
+| **Data Visualization** | **Power BI** | Used to create the interactive dashboards. |
 | **Data Source** | **SQL Database, CSV Files** | The source of the raw credit card transaction and customer data. |
 
 📞 Contact
